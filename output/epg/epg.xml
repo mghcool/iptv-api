@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261122100856 +0800">
+<tv date="20261122220901 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -27158,9 +27158,6 @@
 	</programme>
 	<programme channel="新疆卫视" start="20261122134400 +0800" stop="20261122140000 +0800">
 		<title lang="zh">家园Ⅱ</title>
-	</programme>
-	<programme channel="新疆卫视" start="20261122140000 +0800" stop="20261122143500 +0800">
-		<title lang="zh">新闻午报</title>
 	</programme>
 	<programme channel="新疆卫视" start="20261122143500 +0800" stop="20261122153400 +0800">
 		<title lang="zh">一个强盗都不留(40)</title>
